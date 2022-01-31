@@ -1,2 +1,3 @@
 # COMPUTACION_PARA_INGENIERIA
--javier david pacheco
+-estudiante:javier david pacheco
+-carrera:ingenieria civil

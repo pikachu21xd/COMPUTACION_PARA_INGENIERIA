@@ -11,6 +11,7 @@ comentarios en liena
 liena 1 
 linea 2
 """
+"""
 #crear una variable
 NAME='JAVI'
 FULL_NAME='JAVIER DAVID PACHECO'
@@ -46,3 +47,23 @@ a = int(input("ingrese a :"))
 b = int(input("ingrese b :"))
 print(f' resultado de sumas a +b = { a+b}')
 # hasta aqui xd
+"""
+# estructuras de control
+anio = 2023
+if anio <=2022:
+    print("anio es menor a 2022")
+elif anio >=1989:
+    print("anio es menor a 1989")
+else:
+    print(" el anio no cumple los rango 1989 o 2022")
+       
+# estructura de control while 
+edad = 10 
+while edad<=17 :
+    print(f'menor de edad {edad}')
+    edad = edad + 1
+    
+
+print( f'mayor de edad {edad}')   
+# hasta aqui xd 2
+    

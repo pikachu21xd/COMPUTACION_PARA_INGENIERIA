@@ -1,0 +1,4 @@
+nombre : javier david pacheco
+cod. SIS : 201900690
+edad : 21
+nota : 100

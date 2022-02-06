@@ -13,7 +13,7 @@ print(numeros.readline())
 print(numeros.readline())
 
 
-# leer lineas de un archivo
+# leer lineas de un archivo (kista tranfor.)
 res=numeros.readlines() # restor un arary con el contenidos de archivo
 print(res)
 

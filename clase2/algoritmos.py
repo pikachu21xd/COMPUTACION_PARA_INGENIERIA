@@ -63,7 +63,7 @@ for impar in range(1,11):
 
 
 print("----otra manera de resolver ---")
-for par in range (1,11):
+for par in range (100,401):
     if par % 2 == 0:
         print("el numero par es  :",par)
     else :

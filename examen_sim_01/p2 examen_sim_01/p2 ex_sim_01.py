@@ -14,10 +14,10 @@ lista_2=[]
 for impar in listaDeNumeros:
     if impar % 2 == 1 :
      lista_1.append(impar)
-     print("numeros impares son:",lista_1)
+    print("numeros impares son:",lista_1)
    
 for par in listaDeNumeros:
     if par % 2 == 0 :
      lista_2.append(par)
-     print("numeros pares son:",lista_2)
+    print("numeros pares son:",lista_2)
       

@@ -13,6 +13,8 @@ print(matematica.aritmetrica.sumar(2,4))
 from matematica import aritmetrica
 print(aritmetrica.sumar(6, 6))
 
+
+     # paqute    archivo           funcion
 from matematica.aritmetrica import sumar
 
 print(sumar(2,3))
